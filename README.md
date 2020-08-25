@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there my name is Thiago Moreira, I am a brazilian, father, practioner of bodybuilding and jiu-jitsu, a feroucious reader and a eternal developer. 👋
 
 <!--
 **ttrmoreira/ttrmoreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
