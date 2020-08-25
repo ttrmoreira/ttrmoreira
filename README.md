@@ -1,4 +1,4 @@
-### Hi, my name is Thiago Moreira, I am a brazilian living in Brazil, father, practioner of bodybuilding and jiu-jitsu, a feroucious reader and a eternal fullstack developer with +15 years experienced. Contact-me on <a haref="https://www.linkedin.com/in/ttrmoreira/">LinkedIn</a>. 👋
+### Hi 👋, my name is Thiago Moreira, I am a brazilian living in Brazil, father, practioner of bodybuilding and jiu-jitsu, a feroucious reader and despite my experience as a architectural and development manager, I am a eternal fullstack developer with +15 years experienced. Contact-me on [Linkedin] (https://www.linkedin.com/in/ttrmoreira/). 
 
 <!--
 **ttrmoreira/ttrmoreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
