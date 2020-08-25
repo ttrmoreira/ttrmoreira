@@ -1,6 +1,6 @@
 ### Hi 👋, my name is Thiago Moreira, I am a brazilian living in Brazil, father, practioner of bodybuilding and jiu-jitsu, a feroucious reader and despite my experience as a architectural and development manager, I am a eternal fullstack developer with +15 years experienced. Contact-me on [Linkedin](https://www.linkedin.com/in/ttrmoreira/). 
 
-![Thiago's github stats](https://github-readme-stats.vercel.app/api?username=ApurvShah007&show_icons=true)
+![Thiago's github stats](https://github-readme-stats.vercel.app/api?username=ttrmoreira&show_icons=true)
 <br />
 
 <!--
